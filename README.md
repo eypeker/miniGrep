@@ -1,3 +1,4 @@
 # Grep
 
-A tiny grep programm 
+A miniature grep programm 
+(can be used on Windows)
